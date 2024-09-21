@@ -1,0 +1,10 @@
+table {
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+}
+
+table tr {
+    border: 1px;
+    border-color: blueviolet;
+}
